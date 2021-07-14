@@ -90,7 +90,7 @@ func Savetotxt(out [][]string, Output string) {
 	if Output == "" {
 		Output = "output.txt"
 	}
-	fp, err := os.OpenFile(Output, os.O_CREATE|os.O_APPEND, 6)
+	fp, err := os.OpenFile(Output, os.O_CREATE|os.O_APPEND|os.O_RDWR, 6)
 	if err != nil {
 		fmt.Println("文件打开失败")
 	}
@@ -99,6 +99,7 @@ func Savetotxt(out [][]string, Output string) {
 		if out[i][1] != "" {
 			_, err := fp.WriteString(out[i][1] + "\n")
 			if err != nil {
+				fmt.Println(err)
 				fmt.Println("写入文件失败。")
 			}
 		}
