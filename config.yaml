@@ -1,8 +1,8 @@
 # fofa
 Authorization: "eyJhbGciOiJIUzUxMiIsImtpZCI6Ik5XWTVZakF4TVRkalltSTJNRFZsWXpRM05EWXdaakF3TURVMlkyWTNZemd3TUdRd1pUTmpZUT09IiwidHlwIjoiSldUIn0.eyJpZCI6ODUxMTYsIm1pZCI6MTAwMDUyMzUwLCJ1c2VybmFtZSI6ImxubmciLCJleHAiOjE2MjU5NTA2Nzd9.PZWTdy9fYAsfu8tbNK9sZOMhasmQjLB2g7lcRodXb3L7ObsQwQ1E9v3JxNvKAcO_DHm0fgPNrVzTFCQiknfiww"
 # zoomeye
-Email: "1589862745@qq.com"
-Password: "TZ8UCufDZG.f7CW"
+Email: ""
+Password: ""
 # 爬取一次等待时间
 Timesleep: 5
 # 代理设置，只支持单代理
