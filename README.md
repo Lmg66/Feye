@@ -24,13 +24,13 @@ git clone https://github.com/Lmg66/Feye.git
 
 ### Windows
 
-![](https://cdn.jsdelivr.net/gh/Lmg66/picture@main/image/1626269155701-屏幕截图 2021-07-14 212542.png)
+![](https://cdn.jsdelivr.net/gh/Lmg66/picture@main/image/1626311997219-212542.png)
 
 ### Linux
 
-![](https://cdn.jsdelivr.net/gh/Lmg66/picture@main/image/1626269348730-屏幕截图 2021-07-14 212859.png)
+![](https://cdn.jsdelivr.net/gh/Lmg66/picture@main/image/1626312008362-212859.png)
 
 ### Mac
 
-无
+无mac无测试
 
